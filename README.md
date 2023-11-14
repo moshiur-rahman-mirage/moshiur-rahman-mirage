@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div style="background:dark">Hi, I am Moshiur Rahman Taz Mirage.<br>I am learning Full Stack Software Development.<br>My goal is to work as a full fledge software engineer within 3 years.</div>
+<div style="background:dark;background-color🟥">Hi, I am Moshiur Rahman Taz Mirage.<br>I am learning Full Stack Software Development.<br>My goal is to work as a full fledge software engineer within 3 years.</div>
 
 
 # 💻 Tech Stack:
