@@ -1,4 +1,7 @@
-<img src="https://i.ibb.co/XbJZB3w/arnold-francisca-f77-Bh3in-Up-E-unsplash.jpg"/>
+<p>
+  <img src="https://i.ibb.co/XbJZB3w/arnold-francisca-f77-Bh3in-Up-E-unsplash.jpg"/>
+</p>
+
 # Hi, There, I am Moshiur Rahman Taz Mirage. 
 I am trying to be a software engineer. For that purpose i am learning different technologies.
 # Technologies that i have working knowledge:
