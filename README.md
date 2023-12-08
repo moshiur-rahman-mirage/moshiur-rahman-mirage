@@ -7,7 +7,7 @@
 
 <hr/>
 <h3 align="center">Find Me</h3>
-[LinkedIn] (https://www.linkedin.com/in/moshiur-rahman-mirage-085059154/) 
+[LinkedIn] (https://www.linkedin.com/in/moshiur-rahman-mirage-085059154/) [gmail](mailto:moshiur.mirage@gmail.com)
 <hr/>
 
 <h3 align="center">My Stats</h3>
