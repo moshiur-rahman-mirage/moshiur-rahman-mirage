@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Moshiur Rahman Taz Mirage</h1>
+<h2 align="center">Hi 👋, I'm Moshiur Rahman Taz Mirage</h2>
 <p align="center">I am a passionate tech enthuast, currently working as a software engineer at Orange Solutions Ltd. A sister concern of United Group. Where i mainly develop backend business logic.</p>
 <hr />
-- 🌱 I’m currently learning **Material UI & NextJs**
 
-- 💬 Ask me about **react**
+- Inteerests : Computer System, Programming and the concept of getting opportunity to create new thing everyday intrigues me.
+- Motto : One problem at a time.
 
-- 📫 How to reach me **moshiur.mirage@gmail.com**
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-![Metrics](https://metrics.lecoq.io/moshiur-rahman-mirage?template=classic&isocalendar=1&stargazers=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FDhaka)
+<h4 align="center">My Stats</h4>
+
+
+|             |             |          |
+| ----------- | ----------- |-----------
+| ![moshiur-rahman-mirage's Stats](https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true) | ![moshiur-rahman-mirage's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact)|
