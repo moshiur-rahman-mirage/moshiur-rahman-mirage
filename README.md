@@ -2,7 +2,7 @@
 <p align="center">I am a passionate tech enthusiast working as a software engineer at Orange Solutions Ltd., a sister concern of the United Group. In my current role, I primarily focus on developing backend business logic. My goal is to shift my career towards front-end development</p>
 <hr />
 
-- Interests : Interests: Computer Systems, Programming, and the concept of getting the opportunity to create new things every day intrigue me.
+- Interests: Computer Systems, Programming, and the concept of getting the opportunity to create new things every day intrigue me.
 - Motto: One problem at a time.
 
 <hr/>
