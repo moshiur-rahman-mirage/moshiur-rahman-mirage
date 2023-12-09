@@ -1,10 +1,16 @@
 <h2 align="center">Hi 👋, I'm Moshiur Rahman Taz Mirage</h2>
-<p align="center">I am a passionate tech enthusiast working as a software engineer at Orange Solutions Ltd., a sister concern of the United Group. In my current role, I primarily focus on developing backend business logic. My goal is to shift my career towards front-end development</p>
+<p align="center">I am a passionate tech enthusiast working as a software engineer at Orange Solutions Ltd., a sister concern of the United Group. In my current role, I primarily focus on developing backend business logic using database. My goal is to shift my career towards front-end development</p>
 <hr />
 
 - Interests: Computer Systems, Programming, and the concept of getting the opportunity to create new things every day intrigue me.
 - Motto: One problem at a time.
 
+<hr/>
+
+
+<h3 align="center">How to reach me</h3>
+
+ *[LinkedIn](https://www.linkedin.com/in/moshiur-rahman-mirage-085059154/)* &nbsp;&nbsp;&nbsp;*[Gmail](mailto:moshiur.mirage@gmail.com)*
 <hr/>
 
 <h3 align="center">My Stats</h3>
@@ -24,10 +30,6 @@
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-<hr/>
-<h3 align="center">How to reach me</h3>
-
- *[LinkedIn](https://www.linkedin.com/in/moshiur-rahman-mirage-085059154/)* &nbsp;&nbsp;&nbsp;*[Gmail](mailto:moshiur.mirage@gmail.com)*
 
 
 
