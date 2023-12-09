@@ -3,7 +3,7 @@
 <hr />
 
 - Interests: Computer Systems, Programming, and the concept of getting the opportunity to create new things every day intrigue me.
-- Motto: One problem at a time.
+- Motto: One step at a time.
 
 <hr/>
 
