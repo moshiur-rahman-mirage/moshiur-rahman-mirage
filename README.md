@@ -17,15 +17,9 @@
 <h3 align="center">My Stats</h3>
 
 
-| |       |
-| ----------- | ----------- |
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true) |
-
-<div style="display: grid; justify-items: center;
-  align-items: center;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&layout=compact" />
-</div>
-<br/>
+| |       | |
+| ----------- | ----------- |-------------------|
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true) | ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact)|
 
 <hr/>
 
