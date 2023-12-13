@@ -10,7 +10,7 @@
 
 
 <h3 align="center">How to reach me</h3>
-
+<img src={https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white} (https://www.linkedin.com/in/moshiur-rahman-mirage-085059154/)/>
  *[LinkedIn](https://www.linkedin.com/in/moshiur-rahman-mirage-085059154/)* &nbsp;&nbsp;&nbsp;*[Gmail](mailto:moshiur.mirage@gmail.com)*
 <hr/>
 
