@@ -10,7 +10,7 @@
  
 
 <h3 align="center">How to reach me</h3>
- ![LinkedIn](https://www.linkedin.com/in/moshiur-rahman-mirage-085059154/)* &nbsp;&nbsp;&nbsp;![Gmail](mailto:moshiur.mirage@gmail.com)*
+ ![LinkedIn](https://www.linkedin.com/in/moshiur-rahman-mirage-085059154/) &nbsp;&nbsp;&nbsp; ![Gmail](mailto:moshiur.mirage@gmail.com)
 <hr/>
 
 <h3 align="center">My Stats</h3>
