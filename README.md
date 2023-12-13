@@ -35,7 +35,7 @@
 <h3 align="center">Streak</h3>   
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true&layout=compact"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=false&layout=compact"/>
 </p>
 
 
