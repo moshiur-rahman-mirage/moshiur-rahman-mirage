@@ -25,9 +25,36 @@
 <h3 align="center">My Stats</h3>
 
 
-| |       | |
+<!-- | |       | |
 | ----------- | ----------- |-------------------|
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true) | ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact)|
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true) | ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact)| -->
+
+<!-- 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true)  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact)| -->
+
+
+
+<!-- <div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true" /></div>
+</div> -->
+
+
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true"/></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true"/></td>
+  </tr>
+</table>
+
+<div align="center>
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact)
+</div>
+
 
 <hr/>
 
