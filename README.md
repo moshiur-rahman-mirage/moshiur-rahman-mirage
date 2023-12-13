@@ -46,14 +46,16 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true"/></td>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact"/></td>
   </tr>
 </table>
 
-<div align="center>
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact)
-</div>
+<h3 align="center">Streak</h3>   
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true&layout=compact"/>
+</p>
 
 
 <hr/>
