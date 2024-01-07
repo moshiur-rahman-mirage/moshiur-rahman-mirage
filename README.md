@@ -32,15 +32,6 @@
 </table>
 
 
-<h3 align="center">Streak</h3>   
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=false&layout=compact"/>
-</p>
-
-
-<hr/>
-
 <h3 align="center">Technologies I Know</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,11 +41,24 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 
 <hr/>
+
+<h3 align="center">Streak</h3>   
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=false&layout=compact"/>
+</p>
+<h3 align="center">My Problem Solving Statistics</h3>
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/moshiur-rahman-mirage"/>
+</p>
+<hr/>
+
+
 <h3 align="center">My Portfolio </h3>
 <a align="center" href="https://portfolio-2b98e.web.app/"> My Portfolio </a>
 
-<hr/>
-<h3 align="center">My Problem Solving Statistics</h3>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/moshiur-rahman-mirage)](https://leetcode.com/JacobLinCool)
+
+
+
 <!--START_SECTION:activity-->
