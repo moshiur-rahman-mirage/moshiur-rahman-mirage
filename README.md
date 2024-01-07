@@ -53,5 +53,8 @@
 <h3 align="center">My Portfolio </h3>
 <a align="center" href="https://portfolio-2b98e.web.app/"> My Portfolio </a>
 
+<hr/>
+<h3 align="center">My Problem Solving Statistics</h3>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/moshiur-rahman-mirage)](https://leetcode.com/JacobLinCool)
 <!--START_SECTION:activity-->
