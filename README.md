@@ -46,14 +46,14 @@
 
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=false&layout=compact"/>
-
+<!--
 </p>
 <h3 align="center">My Problem Solving Statistics</h3>
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/moshiur-rahman-mirage"/>
 </p>
 <hr/>
-
+-->
 
 <h3 align="center">My Portfolio </h3>
 <a align="center" href="https://portfolio-2b98e.web.app/"> My Portfolio </a>
