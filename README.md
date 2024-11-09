@@ -1,65 +1,68 @@
-<h2 align="center">Hi 👋, I'm Moshiur Rahman Taz Mirage</h2>
-<p align="center">I am a passionate tech enthusiast working as a software engineer at Orange Solutions Ltd., a sister concern of the United Group. In my current role, I primarily focus on developing backend business logic using database. My goal is to shift my career towards front-end development</p>
-<hr />
+<h2 align="center">👋 Hello! I'm Moshiur Rahman Taz Mirage</h2>
+<p align="center">Software Engineer | Tech Enthusiast | Backend Logic Specialist | Aspiring Front-End Developer</p>
 
-- Interests: Computer Systems, Programming, and the concept of getting the opportunity to create new things every day intrigue me.
-- Motto: One step at a time.
+---
 
-<hr/>
+### 🚀 About Me
+- **Profession**: Software Engineer at **Orange Solutions Ltd.** (United Group).
+- **Focus**: Developing robust backend business logic and working with databases.
+- **Goal**: Expanding my expertise to include front-end development.
+- **Interests**: Computer Systems, Programming, Creating new things every day.
 
+> 💡 **Motto**: "One step at a time."
 
+---
 
-<h3 align="center">How to reach me</h3>
-
-
+### 📬 Get in Touch
 <p align="center">
-<a href="https://linkedin.com/in/moshiur-rahman-mirage-085059154" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moshiur-rahman-mirage-085059154" height="30" width="100" /></a>
-<a href="mailto:moshiur.mirage@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="moshiur-rahman-mirage" height="30" width="80" /></a>
+  <a href="https://linkedin.com/in/moshiur-rahman-mirage-085059154" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="100"/>
+  </a>
+  <a href="mailto:moshiur.mirage@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="80"/>
+  </a>
 </p> 
 
-<hr/>
+---
 
-<h3 align="center">My Stats</h3>
+### 🧰 Technologies & Tools
 
+#### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+#### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact"/></td>
-  </tr>
-</table>
+#### Other
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
+---
 
-<h3 align="center">Technologies I Know</h3>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
-
-<hr/>
-
-<h3 align="center">Streak</h3>   
+### 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=false&layout=compact"/>
-<!--
+  <img src="https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact"/>
 </p>
-<h3 align="center">My Problem Solving Statistics</h3>
+
+---
+
+### 🔥 Streak & Activity
+
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/moshiur-rahman-mirage"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiur-rahman-mirage&theme=default&hide_border=true"/>
 </p>
-<hr/>
--->
 
-<h3 align="center">My Portfolio </h3>
-<a align="center" href="https://portfolio-2b98e.web.app/"> My Portfolio </a>
+---
 
-
-
-
-
-<!--START_SECTION:activity-->
+### 🌐 [My Portfolio](https://portfolio-2b98e.web.app/)
