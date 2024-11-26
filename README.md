@@ -6,7 +6,6 @@
 ### 🚀 About Me
 - **Profession**: Software Engineer at **Orange Solutions Ltd.** (United Group).
 - **Focus**: Developing robust backend business logic and working with databases.
-- **Goal**: Expanding my expertise to include front-end development.
 - **Interests**: Computer Systems, Programming, Creating new things every day.
 
 > 💡 **Motto**: "One step at a time."
