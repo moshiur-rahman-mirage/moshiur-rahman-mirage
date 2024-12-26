@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hello! I'm Moshiur Rahman Taz Mirage</h2>
-<p align="center">Software Engineer | Tech Enthusiast | Backend Logic Specialist | Aspiring Front-End Developer</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="50"/>
+</p>
 
 ---
 
@@ -50,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=default&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moshiur-rahman-mirage&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur-rahman-mirage&theme=radical&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
 ---
@@ -65,3 +67,34 @@
 ---
 
 ### 🌐 [My Portfolio](https://portfolio-2b98e.web.app/)
+
+<a href="https://portfolio-2b98e.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
+---
+
+### 🎉 Fun Facts About Me
+- I love exploring new programming tools and frameworks. 🛠️
+- I'm currently learning front-end development. 🎨
+- In my free time, I enjoy reading tech articles and building projects. 📚
+
+---
+
+### 📚 Projects & Contributions
+
+#### 💻 Featured Projects
+#### [My Project Name](https://github.com/moshiur-rahman-mirage/myproject)
+![Project Screenshot](https://via.placeholder.com/800x400?text=Project+Screenshot)
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=moshiur-rahman-mirage&theme=react-dark&hide_border=true)
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76459185/125040236-470de380-e09c-11eb-9e56-725a33f7a5a3.gif" alt="divider" width="100%"/>
+</p>
