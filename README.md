@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- **Profession**: Software Engineer at **Orange Solutions Ltd.** (United Group).
+- **Profession**: Software Engineer at **Orange Solutions Ltd.**.
 - **Focus**: Developing robust backend business logic and working with databases.
 - **Interests**: Computer Systems, Programming, Creating new things every day.
 
@@ -81,11 +81,7 @@
 
 ---
 
-### 📚 Projects & Contributions
 
-#### 💻 Featured Projects
-#### [My Project Name](https://github.com/moshiur-rahman-mirage/myproject)
-![Project Screenshot](https://via.placeholder.com/800x400?text=Project+Screenshot)
 
 ---
 
