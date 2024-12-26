@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Moshiur Rahman Taz Mirage</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="80"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400"/>
 </p>
 
 ---
