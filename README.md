@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- **Profession**: Software Engineer at **Orange Solutions Ltd.**.
+- **Profession**: Senior Software Engineer at **Orange Solutions Ltd.**.
 - **Focus**: Developing robust backend business logic and working with databases.
 - **Interests**: Computer Systems, Programming, Creating new things every day.
 
