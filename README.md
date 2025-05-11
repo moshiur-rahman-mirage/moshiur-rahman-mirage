@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 - **Profession**: Senior Software Engineer at **Orange Solutions Ltd.**.
-- **Focus**: Developing robust backend business logic and working with databases.
+- **Focus**: Developing robust backend business logic with Spring Boot and postgresql.
 - **Interests**: Computer Systems, Programming, Creating new things every day.
 
 > 💡 **Motto**: "One step at a time."
