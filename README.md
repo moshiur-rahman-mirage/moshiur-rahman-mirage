@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- **Profession**: Senior Software Engineer at **Orange Solutions Ltd.**.
+- **Profession**: Software Engineer at **Adventure Dhaka Ltd.**.
 - **Focus**: Developing robust backend business logic with Spring Boot and postgresql.
 - **Interests**: Computer Systems, Programming, Creating new things every day.
 
