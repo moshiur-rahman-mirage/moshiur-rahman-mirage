@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 - **Profession**: Software Engineer at **Adventure Dhaka Ltd.**.
-- **Focus**: Developing robust backend business logic with Spring Boot and postgresql.
+- **Focus**: Developing robust backend business logic with Spring Boot and mysql.
 - **Interests**: Computer Systems, Programming, Creating new things every day.
 
 > 💡 **Motto**: "One step at a time."
@@ -50,9 +50,11 @@
 
 #### Database
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+
 </p>
 
 #### Other
