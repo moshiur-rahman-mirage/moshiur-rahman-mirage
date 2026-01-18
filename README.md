@@ -120,5 +120,3 @@
 
 ### 🎉 Fun Facts About Me
 - I love exploring new programming tools and frameworks 🛠️
-- I'm currently diving deeper into cloud-native architecture ☁️
-- In my free time, I read tech articles and contribute to open-source 📚
