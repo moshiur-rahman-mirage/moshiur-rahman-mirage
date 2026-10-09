@@ -6,8 +6,8 @@
 ---
 
 ### 🚀 About Me
-- **Profession**: Software Engineer at **Adventure Dhaka Ltd.**
-- **Experience**: 5 years in software engineering, specializing in backend development.
+- **Profession**: Software Engineer at **ProdigySoft Ltd.**
+- **Experience**: 6 years in software engineering, specializing in backend development.
 - **Focus**: Designing scalable backend systems, API-driven architectures, and database solutions.
 - **Interests**: Distributed Systems, Cloud Computing, and building impactful solutions.
 
